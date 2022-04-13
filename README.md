@@ -10,7 +10,7 @@ Typically, the image of a shower after some pre-processing is an elongated clust
 The program was run with parameters allowing to observe events with energies down to below 50 GeV.
 
 ### Dataset
-The dataset is available at this link
+The dataset is available at this [link](magic04.data).
 
 Attribute Information:
 
